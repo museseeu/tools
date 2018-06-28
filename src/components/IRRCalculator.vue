@@ -33,7 +33,13 @@
           </div>
           <div class="copyright">
             <p>覺得有幫助？分享更多人</p>
-            copyright 2018 <a href="mailto:museseeu@gmail.com">musecloak</a>
+              <div class="line-it-button"
+              data-lang="zh_Hant"
+              data-type="share-e"
+              data-url="https://tools.musecloak.com/" style="display: none;"></div>
+              <br>
+            <br>
+            <p>copyright 2018 <a href="mailto:museseeu@gmail.com">musecloak</a></p>
           </div>
         </div>
       </div>
