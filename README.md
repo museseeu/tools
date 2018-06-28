@@ -2,12 +2,14 @@
 
 https://tools.musecloak.com/
 
-<img src="https://github.com/museseeu/tools/blob/master/screenshot.png" width="400">
+Feature 
 
+- IRR Calculator 
 
-> tools 
+> IRR Calculaotr 年化報酬工具計算
 
-- IRR Calculator
+<img src="https://github.com/museseeu/tools/blob/master/screenshot.png" width="200">
+
 
 ## Build Setup
 
